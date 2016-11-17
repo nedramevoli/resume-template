@@ -34,7 +34,7 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/nedramevoli/resume-template"
+  resume_github_url:            "https://github.com/nedramevoli/resume-template2"
   resume_twitter_url:           "http://twitter.com/nedralovesme"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "http://www.facebook.com/nedramcbeadra"
