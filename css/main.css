@@ -358,7 +358,7 @@ body {
 
 .section-header {
     border-top: 4px solid #ce0c3d;
-    border-bottom: 2px solid #ce0c3d;
+    border-bottom: 2px dotted #ce0c3d;
     padding: .2rem 0 .4rem;
     margin-bottom: 1.5rem
 }
