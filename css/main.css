@@ -398,7 +398,7 @@ body {
 
 .page-header .title-bar {
     border-top: 4px solid #000;
-    border-bottom: 2px dotted #ce0c3d;
+    border-bottom: 2px dotted #000;
     padding: .2rem 0 .4rem;
     padding: .4rem 0
 }
@@ -546,7 +546,7 @@ body {
 }
 
 .page-footer {
-    border-top: 4px dotted #ce0c3d;
+    border-top: 2px dotted #000;
     padding-top: 1.5rem;
     text-align: center;
     margin-bottom: 3rem
