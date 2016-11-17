@@ -546,7 +546,7 @@ body {
 }
 
 .page-footer {
-    border-top: 4px solid #ce0c3d;
+    border-top: 4px dotted #ce0c3d;
     padding-top: 1.5rem;
     text-align: center;
     margin-bottom: 3rem
